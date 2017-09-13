@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Version>42.43.44.45-alpha</Version>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard1.5</TargetFramework>
+  </PropertyGroup>
+</Project>
